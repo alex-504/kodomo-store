@@ -128,53 +128,6 @@
         "padding_bottom": 68
       }
     },
-    "image_with_text_jqMAz9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_cb4RGm": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome to 'Kodomo Fun Club'!",
-            "heading_size": "h2"
-          }
-        },
-        "text_xKfHLQ": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>Kodomo Fun Club is children’s concept store dedicated to bringing global treasures to Japan ⭐️<br\/><br\/>We carefully curated of toys, books and wearables from all over the world.<\/h5>",
-            "text_style": "body"
-          }
-        },
-        "button_MXWYtB": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cb4RGm",
-        "text_xKfHLQ",
-        "button_MXWYtB"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dakota-corbin-PmNjS6b3XP4-unsplash.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_cPRKdH": {
       "type": "rich-text",
       "blocks": {
@@ -222,7 +175,6 @@
     "image_banner_mNwwVJ",
     "collection_list_TiAKRL",
     "featured-collection",
-    "image_with_text_jqMAz9",
     "rich_text_cPRKdH"
   ]
 }
