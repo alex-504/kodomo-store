@@ -23,7 +23,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Let's Explore!",
-            "button_link_1": "shopify:\/\/collections",
+            "button_link_1": "shopify://collections",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -39,8 +39,8 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_28.png",
-        "image_2": "shopify:\/\/shop_images\/rajesh-rajput-PXsDih4tVX4-unsplash.jpg",
+        "image": "shopify://shop_images/Untitled_design_32.png",
+        "image_2": "shopify://shop_images/rajesh-rajput-PXsDih4tVX4-unsplash.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -141,14 +141,14 @@
         "text_Jywhyh": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Kodomo Fun Club<\/strong> is a children's concept store dedicated to bringing global fun to Japan. We carefully curate toys, books, and wearables from around the world, sparking creativity, play, and adventure for every child⭐️<\/p>"
+            "text": "<p><strong>Kodomo Fun Club</strong> is a children's concept store dedicated to bringing global fun to Japan. We carefully curate toys, books, and wearables from around the world, sparking creativity, play, and adventure for every child⭐️</p>"
           }
         },
         "button_7Dbwqw": {
           "type": "button",
           "settings": {
             "button_label": "Learn more",
-            "button_link": "shopify:\/\/pages\/about-us",
+            "button_link": "shopify://pages/about-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
