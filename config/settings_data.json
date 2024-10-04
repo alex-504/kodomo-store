@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/KODOMO_FUN_CLUB-01.png",
+    "logo": "shopify://shop_images/KODOMO_FUN_CLUB-01.png",
     "logo_width": 160,
-    "favicon": "shopify:\/\/shop_images\/KODOMO_FUN_CLUB_SECONDARY_LOGO.png",
+    "favicon": "shopify://shop_images/KODOMO_FUN_CLUB_SECONDARY_LOGO.png",
     "type_header_font": "poppins_n7",
     "heading_scale": 115,
     "type_body_font": "poppins_n4",
@@ -108,10 +108,10 @@
     "sale_badge_color_scheme": "scheme-5",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/kodomofunclub\/",
+    "social_instagram_link": "https://www.instagram.com/kodomofunclub/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -172,7 +172,7 @@
         "settings": {
           "background": "#4272b7",
           "background_gradient": "",
-          "text": "#ff895b",
+          "text": "#000000",
           "button": "#f8ec2a",
           "button_label": "#000000",
           "secondary_button_label": "#f8ec2a",
@@ -370,7 +370,7 @@
       "sale_badge_color_scheme": "scheme-5",
       "sold_out_badge_color_scheme": "scheme-3",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": "100",
       "social_twitter_link": "",
       "social_facebook_link": "",
