@@ -34,7 +34,7 @@
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
@@ -64,10 +64,10 @@
     "collection_list_TiAKRL": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_MKr4Fk": {
+        "featured_collection_4pHBEb": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books"
+            "collection": "wearable"
           }
         },
         "featured_collection_LXNB86": {
@@ -76,24 +76,17 @@
             "collection": "educational-toys"
           }
         },
-        "featured_collection_4pHBEb": {
+        "featured_collection_MKr4Fk": {
           "type": "featured_collection",
           "settings": {
-            "collection": "wearable"
-          }
-        },
-        "featured_collection_nJJpBh": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gifts"
+            "collection": "books"
           }
         }
       },
       "block_order": [
-        "featured_collection_MKr4Fk",
-        "featured_collection_LXNB86",
         "featured_collection_4pHBEb",
-        "featured_collection_nJJpBh"
+        "featured_collection_LXNB86",
+        "featured_collection_MKr4Fk"
       ],
       "settings": {
         "title": "Category",
