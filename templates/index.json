@@ -15,7 +15,7 @@
         "heading_wGCUfn": {
           "type": "heading",
           "settings": {
-            "heading": "Play, Fun, and Adventure.",
+            "heading": "Play, Fun, and Explore!",
             "heading_size": "h2"
           }
         },
@@ -58,7 +58,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "collection_list_TiAKRL": {
