@@ -15,8 +15,15 @@
         "heading_wGCUfn": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Word's Fun For Little Ones</strong>",
+            "heading": "<strong>kodomo fun club</strong>",
             "heading_size": "h2"
+          }
+        },
+        "text_3G8phm": {
+          "type": "text",
+          "settings": {
+            "text": "All for little ones ★",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "buttons_NcWtcX": {
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading_wGCUfn",
+        "text_3G8phm",
         "buttons_NcWtcX"
       ],
       "custom_css": [
@@ -50,7 +58,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "collection_list_TiAKRL": {
