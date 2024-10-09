@@ -24,7 +24,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+            "text": "<p>Join our email list for exclusive offers and the latest news. </p>"
           }
         },
         "email-form": {
@@ -47,6 +47,18 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_BLqjQK": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_BLqjQK"
+      ],
       "settings": {
         "color_scheme": "scheme-3",
         "newsletter_enable": false,
