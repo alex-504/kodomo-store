@@ -52,7 +52,7 @@
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-6fedf36a-62f7-49f6-ba57-347ad8819fea",
         "image_behavior": "none",
