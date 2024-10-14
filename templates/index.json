@@ -15,7 +15,7 @@
         "heading_wGCUfn": {
           "type": "heading",
           "settings": {
-            "heading": "Play, Fun, and Explore!",
+            "heading": "Be fun. Be you.",
             "heading_size": "h1"
           }
         },
@@ -47,14 +47,14 @@
 
       ],
       "settings": {
-        "image": "shopify://shop_images/jakub-kriz-oZn9nTbECnc-unsplash.jpg",
+        "image": "shopify://shop_images/aa67a25cfa33d4144a5f67f4070286e4.jpg",
         "image_2": "shopify://shop_images/rajesh-rajput-PXsDih4tVX4-unsplash.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-6fedf36a-62f7-49f6-ba57-347ad8819fea",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -135,7 +135,7 @@
         "heading_rQwz9J": {
           "type": "heading",
           "settings": {
-            "heading": "About us",
+            "heading": "About Us",
             "heading_size": "h2"
           }
         },
