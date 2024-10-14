@@ -47,8 +47,8 @@
 
       ],
       "settings": {
-        "image": "shopify://shop_images/aa67a25cfa33d4144a5f67f4070286e4.jpg",
-        "image_2": "shopify://shop_images/rajesh-rajput-PXsDih4tVX4-unsplash.jpg",
+        "image": "shopify://shop_images/092d79a2b3cee552c73525be22855c2c.jpg",
+        "image_2": "shopify://shop_images/DSC_5230.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -56,7 +56,7 @@
         "desktop_content_alignment": "left",
         "color_scheme": "scheme-6fedf36a-62f7-49f6-ba57-347ad8819fea",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
